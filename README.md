@@ -1,5 +1,8 @@
 # Novex Dataset App
 
+## **:warning: Dit project is verouderd, wordt niet onderhouden en is daarom gearchiveerd. Maak je hiervan gebruik en heb je vragen neem dan [contact met ons op](https://www.pdok.nl/contact). :warning:**
+
+
 Webapplicatie voor het ophalen van dataset metadata records in het [NationaalGeoregister](https://nationaalgeoregister.nl/) die onderdeel zijn van het [NOVEX](https://www.denationaleomgevingsvisie.nl/novex/default.aspx) programma.
 
 De records uit het NGR kunnen worden vergeleken met een lijst van records die door middel van een CSV bestand door de gebruiker wordt geüpload.
